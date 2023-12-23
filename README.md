@@ -13,6 +13,6 @@ Specified program not tested on all Operating Systems
 
 Type [HELP] in the Command Prompt to view commands
 
-
+This program is 100% Python
 
 Thank you! The Kernel Team.
