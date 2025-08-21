@@ -13,6 +13,10 @@ Specified program not tested on all Operating Systems
 
 Type [HELP] in the Command Prompt to view commands
 
+
 View Our Website Here (IN PROGRESS): https://sites.google.com/view/deskeditkernel/home
+=======
+This program is made of 100% Python
+
 
 Thank you! The Kernel Team.
