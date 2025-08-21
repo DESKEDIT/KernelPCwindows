@@ -6,13 +6,13 @@ Programmed with Python and compiled by PyInstaller (OneFile).
 
 All files in the repository are Malware-Free.
 
-(c) 2023 DeskEdit Corporation (EAndGames Studios Reserved), All rights reserved
+(c) 2025 DeskEdit Corporation (EAndGames Studios Reserved), All rights reserved
 
 # Notes:
 Specified program not tested on all Operating Systems
 
 Type [HELP] in the Command Prompt to view commands
 
-
+View Our Website Here (IN PROGRESS): https://sites.google.com/view/deskeditkernel/home
 
 Thank you! The Kernel Team.
