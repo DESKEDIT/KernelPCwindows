@@ -8,7 +8,12 @@ All files in the repository are Malware-Free.
 
 (c) 2025 DeskEdit Corporation (EAndGames Studios Reserved), All rights reserved
 
+## NOTICE:
+Kernel is being replaced by Kernel++ for speed, available here: https://github.com/DESKEDIT/Kernel-Plus-Plus
+Kernel will recieve less frequent updates due to Kernel++
+
 # Notes:
+
 Specified program not tested on all Operating Systems
 
 Type [HELP] in the Command Prompt to view commands
